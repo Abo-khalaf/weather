@@ -1,0 +1,50 @@
+ 
+
+
+.jambotrun{
+    background-color: blanchedalmond;
+}
+.jambotrun1{
+    font-size: 70px;
+    font-weight: 600;
+    background-color: rgb(74, 144, 236);
+    color: aliceblue;
+    
+
+}
+
+
+#rowDiv{
+    margin: auto;
+    text-align: center;
+    width: 320px;
+}
+.h3{
+    width: 1120px;
+
+}
+#rowDiv{
+    height: 100px;
+    font-size: 20px;
+    font-weight: 50px;
+}
+#submitWeather{
+ 
+    font-weight: bold;
+}
+.hied{
+    height: 600px;
+}
+#show{
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+    background-color:  rgb(74, 144, 236);
+    color: aliceblue;
+}
+.footer{
+    margin: 0px;
+}
